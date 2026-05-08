@@ -1,97 +1,66 @@
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"/>
+<div align="center">
+  <img 
+    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&fontSize=52&fontColor=E8F5F0&fontAlign=50&fontAlignY=40&text=LessScreen&desc=Menos+tela.+Mais+vida+real.&descSize=18&descAlign=50&descAlignY=62&color=0:1B4332,100:52B788"
+  />
 </div>
 
-
-<div align="right">
-  <img src="https://github.com/user-attachments/assets/27f30814-4dd6-49db-8245-7be04160e38c" alt="lucario" width="80">
-</div>
-
-
-
-###
-
+<br/>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,vscode" alt="Tech Stack"; width=300px />
-  </div>
 
-  <h1>LessScreen</h1>
-  <p><strong>Menos tela. Mais vida real.</strong></p>
+<img 
+  src="" 
+  alt="LessScreen Logo" 
+  width="88"
+/>
+
+
+
+<a href="https://hrsonn.github.io/lessscreen/">
+  <img 
+    src="https://img.shields.io/badge/🌐%20LINK%20DE ACESSO-1B4332?style=for-the-badge&logoColor=E8F5F0" 
+    alt="LIVE"
+  />
+
+<img 
+  src="https://img.shields.io/badge/Status-Active-2D6A4F?style=for-the-badge&labelColor=1B4332" 
+  alt="Status"
+/>
+
+<img 
+  src="https://img.shields.io/badge/License-MIT-52B788?style=for-the-badge&labelColor=1B4332" 
+  alt="License"
+/>
+
+<br/><br/>
+
+<img 
+  src="https://skillicons.dev/icons?i=html,css,js,vscode" 
+  alt="Tech Stack" 
+  width="220"
+/>
+
+<br/><br/>
+
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=52B788&center=true&vCenter=true&width=500&lines=Bem-estar+digital+come%C3%A7a+com+consci%C3%AAncia.;Menos+notifica%C3%A7%C3%B5es%2C+mais+presen%C3%A7a.;Tecnologia+deve+ampliar+a+vida.;Voc%C3%AA+controla+a+tela%2C+n%C3%A3o+o+contr%C3%A1rio." 
+  alt="Typing SVG"
+/>
+
 </div>
 
 ---
 
-# Sobre o Projeto
+# 🌿 Visão Geral
 
-O **LessScreen** é uma aplicação web desenvolvida para **conscientizar sobre o uso excessivo de telas** e incentivar práticas de **bem-estar digital**.
+**LessScreen** é uma aplicação web focada em **conscientização sobre o uso excessivo de telas**, promovendo hábitos digitais mais equilibrados.
 
-A proposta do projeto é simples: ajudar o usuário a refletir sobre **quanto tempo passa diante de dispositivos digitais** e mostrar possíveis impactos desse hábito no dia a dia.
+A plataforma convida o usuário a refletir sobre **quanto tempo passa diante de dispositivos** e compreender os **impactos reais desse comportamento** na saúde física e mental.
 
-Através de uma interface clara e intuitiva, o site oferece uma **calculadora de tempo de tela**, além de conteúdos informativos sobre saúde digital.
-
-> "Tecnologia deve ampliar a vida, não substituí-la."
-
----
-
-# Design e Conceito
-
-O design do projeto busca equilíbrio entre **simplicidade e clareza visual**, priorizando:
-
-- interface limpa  
-- navegação intuitiva  
-- leitura confortável  
-- experiência acessível  
-
-A estrutura visual foi pensada para facilitar o entendimento das informações e permitir uma interação rápida com o usuário.
-
-# Funcionalidades
-
-### Calculadora de Tempo de Tela
-
-O usuário informa:
-
-- idade  
-- tempo médio de uso diário de telas  
-
-Com base nesses dados, o sistema retorna um diagnóstico:
-
-🟢 **Uso consciente**  
-🟡 **Uso moderado**  
-🔴 **Uso excessivo**
-
----
-
-### Conteúdo Informativo
-
-O site apresenta informações sobre possíveis impactos do excesso de telas:
-
-- fadiga ocular  
-- problemas de postura  
-- impacto no sono  
-- dependência digital  
-
----
-
-### Interface Responsiva
-
-O layout se adapta automaticamente para diferentes resoluções de tela, garantindo boa experiência em qualquer dispositivo.
----
-
-# Tecnologias Utilizadas
-
-- **HTML5**  
-Estrutura semântica da página.
-
-- **CSS3**  
-Estilização, layout responsivo e organização visual.
-
-- **JavaScript (ES6+)**  
-Manipulação do DOM e lógica da calculadora.
-
----
-
-### Link Para Acesso
-
-https://hrsonn.github.io/lessscreen/
-
+```text
+📊 Informe seu uso
+        ↓
+🔍 Receba um diagnóstico
+        ↓
+💡 Descubra como melhorar
