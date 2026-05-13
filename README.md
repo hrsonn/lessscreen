@@ -60,6 +60,22 @@ O primeiro passo para mudar é **perceber**.
 
 ---
 
+## 📸 Capturas de Tela
+
+<div align="center">
+  <img src="./assets/images/preview-home.png" alt="Tela inicial do LessScreen" width="85%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/images/preview-resultado.png" alt="Tela de resultado do LessScreen" width="85%" />
+</div>
+
+<br/>
+
+---
+
 ##  ❋ Funcionalidades
 
 <br/>
